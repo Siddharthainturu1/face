@@ -47,7 +47,7 @@ const App = () => {
             </div>
 
             <footer>
-                <p>&copy; {new Date().getFullYear()} Your Company Name. All Rights Reserved.</p>
+                <p>&copy; {new Date().getFullYear()} Siddhartha Inturu . All Rights Reserved.</p>
             </footer>
         </Router>
     );
